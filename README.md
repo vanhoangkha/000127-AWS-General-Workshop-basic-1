@@ -1,4 +1,4 @@
-# 📚 AWS General Workshop Basic 1
+# AWS General Workshop Basic 1
 
 AWS fundamentals — core services and concepts.
 
@@ -8,7 +8,7 @@ This is a hands-on workshop from the **AWS First Cloud Journey** series.
 
 ## Workshop
 
-📖 **[Start the workshop](https://vanhoangkha.github.io/000127-AWS-General-Workshop-basic-1/)**
+**[Start the workshop](https://vanhoangkha.github.io/000127-AWS-General-Workshop-basic-1/)**
 
 ## Prerequisites
 
